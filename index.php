@@ -13,9 +13,14 @@
 <body>
 <h1>Cars</h1>
 
-<p>  this is paragraph one </p>
-<p>  this is paragraph two </p>
-<p>  this is paragraph three </p>
+<p>The 2018 Ford Focus ranked #2 in Compact Cars. Currently the Ford Focus has a score of 8.7 out of 10 which is based on our evaluation of 89 pieces of research and data elements using various sources. - USNews</p>
+<p>The 2018 Audi A4 ranked #3 in Luxury Small Cars. Currently the Audi A4 has a score of 8.9 out of 10 which is based on our evaluation of 29 pieces of research and data elements using various sources. - USNews</p>
+<p>The 2019 BMW 3-Series ranked #12 in Luxury Small Cars. Currently the BMW 3-Series has a score of 8.2 out of 10 which is based on our evaluation of 12 pieces of research and data elements using various sources. - USNews</p>
+<p>The 2019 Acura TLX ranked #12 in Luxury Midsize Cars. Currently the Acura TLX has a score of 7.8 out of 10 which is based on our evaluation of 45 pieces of research and data elements using various sources. - USNews</p>
+
+
+<a href="https://cars.usnews.com/cars-trucks">Link to USNews</a>
+
 
 <table class="table">
     <thead>
